@@ -1,13 +1,13 @@
 {
 	"homepage":"https://mods.curse.com/mc-mods/minecraft/227615-tf2-stuff-mod",
 	"1.10.2": {
-		"0.9.0": "Stuff"
+		"0.8.0": "Stuff"
 	},
 	"1.7.10": {
 		"0.6.9.1": "Stuff"
 	},
 	"promos": {
-		"1.10.2-latest": "0.9.0",
+		"1.10.2-latest": "0.8.0",
 		"1.7.10-latest": "0.6.9.1"
 	}
 }
