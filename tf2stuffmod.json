@@ -1,7 +1,8 @@
 {
 	"homepage":"https://mods.curse.com/mc-mods/minecraft/227615-tf2-stuff-mod",
 	"1.11.2": {
-		"1.0.1": "Initial release for 1.11.2"
+		"1.0.1": "Initial release for 1.11.2",
+		"1.0.2": "Fixed TF2 crafting table not opening"
 	},
 	"1.10.2": {
 		"0.8.0": "Stuff",
@@ -12,9 +13,9 @@
 		"0.6.9.1": "Stuff"
 	},
 	"promos": {
-		"1.11.2-recommended": "1.0.1",
+		"1.11.2-recommended": "1.0.2",
 		"1.10.2-recommended": "1.0.1",
-		"1.11.2-latest": "1.0.1",
+		"1.11.2-latest": "1.0.2",
 		"1.10.2-latest": "1.0.1",
 		"1.7.10-latest": "0.6.9.1"
 	}
