@@ -5,7 +5,10 @@
 		"1.0.2": "Fixed TF2 crafting table not opening",
 		"1.0.3": "Fixed several crashes",
 		"1.0.4": "Fixed several bugs",
-		"1.0.5": "Added unusuals"
+		"1.0.5": "Added unusuals",
+		"1.0.6": "Bugfixes",
+		"1.0.7": "Bugfixes",
+		"1.0.7.1": "Bugfixes"
 	},
 	"1.10.2": {
 		"0.8.0": "Stuff",
@@ -13,16 +16,18 @@
 		"1.0.1": "Bug fixes",
 		"1.0.3": "Fixed airblast, ammo usage",
 		"1.0.4": "Fixed several bugs",
-		"1.0.5": "Added unusuals"
+		"1.0.5": "Added unusuals",
+		"1.0.6": "Bugfixes",
+		"1.0.7.1": "Bugfixes"
 	},
 	"1.7.10": {
 		"0.6.9.1": "Stuff"
 	},
 	"promos": {
-		"1.11.2-recommended": "1.0.5",
-		"1.10.2-recommended": "1.0.5",
-		"1.11.2-latest": "1.0.5",
-		"1.10.2-latest": "1.0.5",
+		"1.11.2-recommended": "1.0.7.1",
+		"1.10.2-recommended": "1.0.7.1",
+		"1.11.2-latest": "1.0.7.1",
+		"1.10.2-latest": "1.0.7.1",
 		"1.7.10-latest": "0.6.9.1"
 	}
 }
