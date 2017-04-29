@@ -9,7 +9,8 @@
 		"1.0.6": "Bugfixes",
 		"1.0.7": "Bugfixes",
 		"1.0.7.1": "Bugfixes",
-		"1.0.8": "Bugfixes"
+		"1.0.8": "Bugfixes",
+		"1.0.9": "Added banners"
 	},
 	"1.10.2": {
 		"0.8.0": "Stuff",
@@ -26,9 +27,9 @@
 		"0.6.9.1": "Stuff"
 	},
 	"promos": {
-		"1.11.2-recommended": "1.0.8",
+		"1.11.2-recommended": "1.0.9",
 		"1.10.2-recommended": "1.0.8",
-		"1.11.2-latest": "1.0.8",
+		"1.11.2-latest": "1.0.9",
 		"1.10.2-latest": "1.0.8",
 		"1.7.10-latest": "0.6.9.1"
 	}
