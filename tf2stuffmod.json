@@ -16,7 +16,8 @@
 		"1.1.0": "New weapons",
 		"1.1.2": "New models and sounds",
 		"1.1.3": "New models",
-		"1.1.4": "New models"
+		"1.1.4": "New models",
+		"1.1.5": "Disguise kit update"
 	},
 	"1.10.2": {
 		"0.8.0": "Stuff",
@@ -35,9 +36,9 @@
 		"0.6.9.1": "Stuff"
 	},
 	"promos": {
-		"1.11.2-recommended": "1.1.4",
+		"1.11.2-recommended": "1.1.5",
 		"1.10.2-recommended": "1.0.8.3",
-		"1.11.2-latest": "1.1.4",
+		"1.11.2-latest": "1.1.5",
 		"1.10.2-latest": "1.0.8.3",
 		"1.7.10-latest": "0.6.9.1"
 	}
