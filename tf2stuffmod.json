@@ -9,7 +9,8 @@
 		"1.1.9.1": "Bug fixes",
 		"1.1.10": "Cleaver",
 		"1.1.11": "Bug fixes",
-		"1.1.11.5": "Bug fixes"
+		"1.1.11.5": "Bug fixes",
+		"1.1.2": "Bug fixes"
 	},
 	"1.11.2": {
 		"1.0.1": "Initial release for 1.11.2",
@@ -46,16 +47,5 @@
 		"1.0.8": "Bugfixes",
 		"1.0.8.2": "Bugfixes",
 		"1.0.8.3": "Bugfixes"
-	},
-	"1.7.10": {
-		"0.6.9.1": "Stuff"
-	},
-		"1.12-recommended": "1.1.11.5",
-		"1.11.2-recommended": "1.1.11.5",
-		"1.10.2-recommended": "1.0.8.3",
-		"1.12-latest": "1.1.11",
-		"1.11.2-latest": "1.1.11",
-		"1.10.2-latest": "1.0.8.3",
-		"1.7.10-latest": "0.6.9.1"
 	}
 }
